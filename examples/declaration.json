@@ -1,0 +1,12 @@
+{
+  "_comment": "1) 船舶申报（幂等键 request_id；committed=true 表示已承诺任务）",
+  "request_id": "REQ-EX-0001",
+  "vessel_imo": "V-DEEP",
+  "movement": "INBOUND",
+  "ready_at": "2026-09-14T23:30:00",
+  "due_at": "2026-09-15T01:00:00",
+  "duration_minutes": 40,
+  "board_location": "BAR",
+  "land_location": "DOCKS",
+  "committed": true
+}

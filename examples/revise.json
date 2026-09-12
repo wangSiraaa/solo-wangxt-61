@@ -1,0 +1,7 @@
+{
+  "_comment": "3) 正式计划锁定后的显式修订（idempotency_key 保证重复提交不产生第二份修订）",
+  "idempotency_key": "REV-EX-1",
+  "add_declaration_ids": [2],
+  "cancel_declaration_ids": [],
+  "note": "临时加靠一艘虚构小货轮"
+}

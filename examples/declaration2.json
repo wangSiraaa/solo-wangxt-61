@@ -1,0 +1,12 @@
+{
+  "_comment": "演示用第二艘船：白天靠泊的小货轮，供锁定后显式修订加入",
+  "request_id": "REQ-EX-0002",
+  "vessel_imo": "V-SMALL",
+  "movement": "INBOUND",
+  "ready_at": "2026-09-15T09:00:00",
+  "due_at": "2026-09-15T13:00:00",
+  "duration_minutes": 30,
+  "board_location": "BAR",
+  "land_location": "DOCKS",
+  "committed": false
+}
